@@ -16,7 +16,7 @@ Este repositorio documenta un conjunto de prácticas realizadas en un entorno se
 
 ---
 
-## Tarea 1: Consultas básicas en la base de datos `Secureshop`
+## Task 1: Consultas básicas en la base de datos `Secureshop`
 
 - Visualización de datos en las tablas `payment_details`, `customers`, `orders` y `products`.
 - Consulta específica por `order_id`.
@@ -26,7 +26,7 @@ Ver carpeta: `01_consultas_basicas/`
 
 ---
 
-## Tarea 2: Cifrado y enmascaramiento
+## Task 2: Cifrado y enmascaramiento
 
 - **Cifrado de número telefónico** con `AES_ENCRYPT()`.
 - **Descifrado** usando `AES_DECRYPT()`:
@@ -42,7 +42,7 @@ Ver carpeta: `02_cifrado_enmascaramiento/`
 
 ---
 
-## Tarea 3: Control de acceso
+## Task 3: Control de acceso
 
 * Creación del usuario `DeliveryExecutive`.
 * Otorgamiento de permisos `SELECT`, `UPDATE`, `DELETE` a la tabla `customers`.
@@ -59,7 +59,7 @@ Ver carpeta: `03_permisos/`
 
 ---
 
-## Tarea 4: Inyección SQL
+## Task 4: Inyección SQL
 
 Se construyeron consultas **vulnerables a SQL Injection** para demostrar cómo una entrada sin validación puede ser explotada.
 

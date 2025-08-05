@@ -88,10 +88,10 @@ Ver carpeta: `04_inyeccion_sql/`
 
 Cada subcarpeta contiene capturas de pantalla nombradas de forma descriptiva:
 
-* `evidencias/inyeccion_simple.png`
-* `evidencias/telefono_cifrado.png`
-* `evidencias/join_vulnerable.png`
-* Etc.
+* `01_consultas_basicas/`
+* `02_cifrado_enmascaramiento/`
+* `03_permisos/`
+* `04_inyeccion_sql/`.
 
 ---
 

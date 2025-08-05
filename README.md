@@ -12,7 +12,7 @@ Este repositorio documenta un conjunto de prácticas realizadas en un entorno se
 | `02_cifrado_enmascaramiento/` | Ejercicios de cifrado AES, descifrado y enmascaramiento parcial |
 | `03_permisos/` | Gestión de usuarios MySQL, asignación y revocación de permisos |
 | `04_inyeccion_sql/` | Demostraciones de inyecciones SQL usando entradas sin sanitizar |
-| `evidencias/` | Capturas de pantalla de la ejecución de cada actividad |
+
 
 ---
 

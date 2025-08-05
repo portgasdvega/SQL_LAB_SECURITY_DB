@@ -106,7 +106,7 @@ Cada subcarpeta contiene capturas de pantalla nombradas de forma descriptiva:
 ## Autor
 
 **Martínez Vega Emiliano**
-Estudiante de Ingeniería en Comunicaciones y Electrónica
+Egresado de Ingeniería en Comunicaciones y Electrónica
 Especializado en Redes y Ciberseguridad
 GitHub: [portgasdvega](https://github.com/portgasdvega)
 
